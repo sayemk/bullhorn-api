@@ -23,12 +23,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Justijndepover\\Bullhorn\\": "src/"
+            "Sayemk\\Bullhorn\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Justijndepover\\Bullhorn\\Tests\\": "tests/"
+            "Sayemk\\Bullhorn\\Tests\\": "tests/"
         }
     },
     "scripts": {
